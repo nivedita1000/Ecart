@@ -1,0 +1,50 @@
+.body-hh{
+    background-color: rgb(230, 230, 230);
+    border: 1px solid gray;
+    text-align: center;
+    
+}
+
+.program{
+  margin-left: auto;
+  margin-left: auto;
+  overflow: scroll;
+    
+}
+
+.program .head{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+}
+
+.program .program1{
+    margin-top: 15px;
+    
+    
+}
+.program .group{
+    position: static;
+    display: inline-flex;
+    margin-left: auto;
+  margin-right: auto;
+    
+}
+
+.program .group .details{
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.program .group .video{
+    margin-right: 10px;
+    width: 280;
+    height: 200;
+    
+}
+
+/* .frame{
+    margin-right: 3px;
+} */
